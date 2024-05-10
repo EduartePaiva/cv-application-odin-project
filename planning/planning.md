@@ -10,7 +10,7 @@
 
 ## Cool project to inspire:
 
-[image](cv-example.jpeg)
+![image](cv-example.jpeg)
 
 [project preview](https://ephemeral-concha-9a3cb0.netlify.app/)  
 [project link](https://github.com/blueratdota/odin-cv-project)
